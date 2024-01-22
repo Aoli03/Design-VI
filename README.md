@@ -18,7 +18,9 @@
   * Music
 
 <hr>
-This is a link to my CPE 487 github![Aoli03's DSD Github](https://github.com/Aoli03/DSD-Final-Lab-Project)
+
+[This is a link to my CPE 487 github!](https://github.com/Aoli03/DSD-Final-Lab-Project)
+
 <hr>
 
 ***Instruments I Play \(Not Much Anymore)***
