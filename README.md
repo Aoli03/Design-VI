@@ -1,4 +1,4 @@
-~~heading~~, ~~bold~~, ~~italic~~, ~~block quote~~, ~~ordered list~~, ~~unordered list~~, ~~code~~, horizontal rule, link, ~~image~~
+~~heading~~, ~~bold~~, ~~italic~~, ~~block quote~~, ~~ordered list~~, ~~unordered list~~, ~~code~~, ~~horizontal rule~~, ~~link~~, ~~image~~
 # _Design 6 in Italics_
 ![I am describing the image if you hover on it?](https://avatars.githubusercontent.com/u/82727581?v=4)
 
@@ -8,6 +8,8 @@
 > Is this a block? Or just a quote?
 > "This was said by me!" ~ Chris K.
 
+<hr>
+
 **Things I Like in an Unordered List**
 - Bowling
   + Video Games
@@ -15,11 +17,16 @@
 * Food
   * Music
 
+<hr>
+This is a link to my CPE 487 github![Aoli03's DSD Github](https://github.com/Aoli03/DSD-Final-Lab-Project)
+<hr>
+
 ***Instruments I Play \(Not Much Anymore)***
 1. Trumpet
 2. Mellophone
 3. Trombone \(For a show)
 4. Euphonium \(Once)
+<hr>
 
 ```vhdl
 ENTITY bat_n_ball IS
