@@ -1,7 +1,7 @@
-heading, bold, italic, block quote, ordered list, unordered list, code, horizontal rule, link, image
+~~heading~~, ~~bold~~, ~~italic~~, ~~block quote~~, ~~ordered list~~, ~~unordered list~~, ~~code~~, horizontal rule, link, ~~image~~
 # _Design 6 in Italics_
-**This is bold**
 ![I am describing the image if you hover on it?](https://avatars.githubusercontent.com/u/82727581?v=4)
+
 ## Design 6
 200<sup>3x</sup>=5<sup>3y+z</sup>
 ### Design 6!
