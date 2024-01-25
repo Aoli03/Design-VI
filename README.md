@@ -2,10 +2,9 @@
 # _Design 6 in Italics_
 ![I am describing the image if you hover on it?](https://avatars.githubusercontent.com/u/82727581?v=4)
 
-## Design 6
+## I like math
 200<sup>3x</sup>=5<sup>3y+z</sup>
 ### Design 6!
-> Is this a block? Or just a quote?
 > "This was said by me!" ~ Chris K.
 
 <hr>
@@ -30,6 +29,7 @@
 4. Euphonium \(Once)
 <hr>
 
+###Here's some code from CPE 487 from one of our labs
 ```vhdl
 ENTITY bat_n_ball IS
     PORT (
