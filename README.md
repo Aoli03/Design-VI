@@ -29,7 +29,7 @@
 4. Euphonium \(Once)
 <hr>
 
-###Here's some code from CPE 487 from one of our labs
+### Here's some code from CPE 487 from one of our labs
 ```vhdl
 ENTITY bat_n_ball IS
     PORT (
