@@ -1,5 +1,5 @@
 ~~heading~~, ~~bold~~, ~~italic~~, ~~block quote~~, ~~ordered list~~, ~~unordered list~~, ~~code~~, ~~horizontal rule~~, ~~link~~, ~~image~~
-# _Design 6 GitHub Summary_
+# _Design 6 GitHub Repository_
 ## My name is Christopher Kniss
 > "  Here's some math: 200<sup>3x</sup>=5<sup>3y+z</sup>  " ~ Chris K.
 
@@ -22,7 +22,7 @@
 4. Euphonium \(Once)
 <hr>
 
-### [My CPE 487 final project github!](https://github.com/Aoli03/DSD-Final-Lab-Project) 
+### [My CPE 487 final project GitHub Repository!](https://github.com/Aoli03/DSD-Final-Lab-Project) 
 
 In Fall 2023, my group and I made a game called _Evade_, where using a potentiometer you dodged pseudo-randomly spawned objects.
 As you played the game would ramp up in speed! This was programmed in VHDL and synthesized onto an FPGA.
