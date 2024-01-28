@@ -1,11 +1,7 @@
 ~~heading~~, ~~bold~~, ~~italic~~, ~~block quote~~, ~~ordered list~~, ~~unordered list~~, ~~code~~, ~~horizontal rule~~, ~~link~~, ~~image~~
-# _Design 6 in Italics_
-![I am describing the image if you hover on it?](https://avatars.githubusercontent.com/u/82727581?v=4)
-
-## I like math
-200<sup>3x</sup>=5<sup>3y+z</sup>
-### Design 6!
-> "This was said by me!" ~ Chris K.
+# _Design 6 GitHub Summary_
+## My name is Christopher Kniss
+> "  Here's some math: 200<sup>3x</sup>=5<sup>3y+z</sup>  " ~ Chris K.
 
 <hr>
 
@@ -16,9 +12,6 @@
 * Food
   * Music
 
-<hr>
-
-[This is a link to my CPE 487 github!](https://github.com/Aoli03/DSD-Final-Lab-Project)
 
 <hr>
 
@@ -29,7 +22,13 @@
 4. Euphonium \(Once)
 <hr>
 
-### Here's some code from CPE 487 from one of our labs
+### [My CPE 487 final project github!](https://github.com/Aoli03/DSD-Final-Lab-Project) 
+
+In Fall 2023, my group and I made a game called _Evade_, where using a potentiometer you dodged pseudo-randomly spawned objects.
+As you played the game would ramp up in speed! This was programmed in VHDL and synthesized onto an FPGA.
+
+We modified this code for our game during the final project:
+
 ```vhdl
 ENTITY bat_n_ball IS
     PORT (
@@ -47,3 +46,9 @@ ENTITY bat_n_ball IS
     );
 END bat_n_ball;
 ```
+
+<hr>
+
+### This is my profile picture right now:
+
+![I am describing the image if you hover on it?](https://avatars.githubusercontent.com/u/82727581?v=4)
