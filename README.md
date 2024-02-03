@@ -1,4 +1,3 @@
-~~heading~~, ~~bold~~, ~~italic~~, ~~block quote~~, ~~ordered list~~, ~~unordered list~~, ~~code~~, ~~horizontal rule~~, ~~link~~, ~~image~~
 # _Design 6 GitHub Repository_
 ## My name is Christopher Kniss
 > "  Here's some math: 200<sup>3x</sup>=5<sup>3y+z</sup>  " ~ Chris K.
