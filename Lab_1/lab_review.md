@@ -12,6 +12,10 @@ After gathering the outputs as a function of time, we can run the GTKWave file.
 A half adder should sum two bit values: `a` and `b` here.
 The results will go into the sum, or the carry bit, represented by `s` and `c`, respectively.
 
+<img src="Figures/HA_GTKWave_1.png" alt="System State 1" width="200"/>
+<img src="Figures/HA_GTKWave_2.png" alt="System State 2" width="200"/>
+<img src="Figures/HA_GTKWave_3.png" alt="System State 3" width="200"/>
+<img src="Figures/HA_GTKWave_4.png" alt="System State 4" width="200"/>
 
 <hr>
 
