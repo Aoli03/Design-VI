@@ -38,10 +38,23 @@ This system is asynchronous from any clock and responds immediately to internal 
 You begin by usign GHDL to analyze the two files, a testbench and a top entity of the D-Flip FLop, and eventually execute the testbench.
 After gathering the outputs as a function of time, we can run the GTKWave file.
 
-The premise of a D-Flip Flop is to take input on the Data_In line, and whatever is present on the rising edge of the 
+![Command Prompt Input](Figures/DFlip_Flop_Setup.png)
 
-<img src="Figures/HA_GTKWave_4.png" alt="System State 4" width="700" height="350"/>
-<img src="Figures/HA_GTKWave_4.png" alt="System State 4" width="700" height="350"/>
-<img src="Figures/HA_GTKWave_4.png" alt="System State 4" width="700" height="350"/>
-<img src="Figures/HA_GTKWave_4.png" alt="System State 4" width="700" height="350"/>
+**D-Flip Flop:** The premise of a D-Flip Flop is to take input on the `din` line, and whatever is present on the _rising edge_ of the clock \[From 0 --> 1\] will be retained as output until the next _rising edge_, acting as memory for one clock cycle.
+
+The reset signal, or `rst`, is used to make the output go back to `dout=0` if `rst=1`, asynchronously from the clock, as long as it is held at 1.
+After letting go, `rst=0`, the flip flop goes back to normal operation on the next _rising edge_.
+
+Below, you can see that `din` was equal to zero on the last rising edge, and so `dout` is also retained as `0`.
+
+<img src="Figures/DFF_GTWave_1.png" alt="System State 1" width="700" height="350"/>
+
+Below, you can see that `din=1` starting from the falling edge, and so `dout=0` until the rising edge, where you see that `dout` becomes `1`.
+
+<img src="Figures/DFF_GTWave_2.png" alt="System State 2" width="700" height="350"/>
+
+Below, you can see `din=1` is being held, however, on a  _falling edge_ `rst=1` begins to be held, so `dout` is forced to be `0`, against any input.
+
+<img src="Figures/DFF_GTWave_3.png" alt="System State 3" width="700" height="350"/>
+
 
