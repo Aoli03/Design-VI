@@ -100,3 +100,4 @@
 
 ### Quick and Easy!
 ![image](https://github.com/Aoli03/Design-VI/assets/82727581/23c5ad48-9675-45d7-a012-8bd91209f9c5)
+![image](https://github.com/Aoli03/Design-VI/assets/82727581/10e07d1f-6240-4bbc-97c8-e517e8be1743)
