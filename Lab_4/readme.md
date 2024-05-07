@@ -1,6 +1,6 @@
 # Lab 4
 
-# Django
+## Django
 
 ### Started a django project
 ![image](https://github.com/Aoli03/Design-VI/assets/82727581/c73edfef-eb4f-47cb-b334-d18340c7d6d3)
